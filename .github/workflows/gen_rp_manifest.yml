@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'rp/**'
+      - 'resourcepacks/**'
 
 jobs:
   build:
