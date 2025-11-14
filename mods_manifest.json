@@ -1,14 +1,9 @@
 {
   "files": {
-    "mods/embeddium-0.3.31+mc1.20.1.jar": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
-    "mods/canary-mc1.20.1-0.3.3.jar": "51f6d78dd6c7874657e5757fd2f5d780aa3cd415052ad071077b8894c6430942",
     "mods/Colocar mods.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "mods/refurbished_furniture-forge-1.20.1-1.0.14.jar": "a44d4b232e906ecdbbddafec5b9edc2c9a1dc8a8fa7d7ea0782f0a694eb9d21a",
-    "mods/carryon-forge-1.20.1-2.1.2.7.jar": "d7470921fc5ff988788d43409083f62478aecc91f4b81d7e6b63c80c933d4613",
     "mods/framework-forge-1.20.1-0.7.15.jar": "0c29b9bab2ca7209a6cc8d80b2cd06daa4be2da81b636f7292cebebfaaea6c08",
     "mods/jei-1.20.1-forge-15.20.0.112.jar": "2d3a86f503dbde51afa5142951525c37e227016ce8d9e7dfd10bbdd9233f0204",
-    "mods/moonlight-1.20-2.16.5-forge.jar": "e930706da10945e280a5771445b7574b018a0a2cae6c36e36cfcbca45ba127e5",
-    "mods/dummmmmmy-1.20-2.0.9.jar": "bfbda7e454cd2cc547578208b3c42a2526a2615b155c76952f6981ba3da0fe89",
-    "mods/epicfight-forge-20.12.5-1.20.1.jar": "a21a9a132853b3a32e080ed8a040c6a1eb8b057739560bab40baef6f53012c43"
+    "mods/moonlight-1.20-2.16.5-forge.jar": "e930706da10945e280a5771445b7574b018a0a2cae6c36e36cfcbca45ba127e5"
   }
 }
