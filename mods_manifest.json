@@ -1,5 +1,10 @@
 {
   "files": {
-    "mods/Colocar mods.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    "mods/ParCool-1.16.5-3.4.2.0.jar": "ab54d8df7d9a9a88354bd3285275b3b2668966657f938c6486552ad21fc60f7e",
+    "mods/create-mc1.16.5_v0.3.2g.jar": "0384551c6a508d9a76fba101ca309c62419ee020d3fd57d5981a5b8411f0b6d4",
+    "mods/Colocar mods.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mods/flywheel-1.16-0.2.5.jar": "205f91f02310246bd4db8e361ba5da3c44cb922479de45da940553088e952dc2",
+    "mods/CreativeCore_v2.2.1_mc1.16.5.jar": "33722a10a6083999f82f46c76fd9e7d38577c1b4f5d46296234664d9b0bedcbd",
+    "mods/CMDCam_v1.5.24_mc1.16.5.jar": "8011ef86870cdb5074bf3fc9e7bbb9c940f0220b127d2e87ee95d630eb2d4333"
   }
 }
