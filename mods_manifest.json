@@ -1,5 +1,9 @@
 {
   "files": {
-    "mods/Colocar mods.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    "mods/voicechat-forge-1.21.1-2.6.12.jar": "61295e1b74db1888808e6fc895c15811363e44ae5ce5a583be1e208eff2e15a4",
+    "mods/entity_texture_features_1.21-forge-7.0.9.jar": "e98c1da0763967da14d7eb38eeed0b7711e8c4ebccc3fd7dc3c4f952bd3b4610",
+    "mods/Colocar mods.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mods/skinrestorer-2.6.0+1.21-forge.jar": "d69a19c512d01db7e6e4ad6624ed49d02a261e5b23ee378c2a8ad76118c9b626",
+    "mods/entity_model_features_1.21-forge-3.0.12.jar": "243b63dfe8aee3e3ba63ade9db7e24cdc827a0333cef189a8d192a755f158935"
   }
 }
